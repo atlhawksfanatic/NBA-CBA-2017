@@ -94,6 +94,13 @@ player-options.
 no-conditional-options.
 exercise-period.
 option-exercise-notices.
+circumvention
+general-prohibitions.
+no-unauthorized-agreements.
+penalties.
+production-of-tax-materials.
+transactions-with-retired-players.
+charitable-contributions.-1
 anti-collusion-provisions
 no-collusion.
 non-collusive-conduct.
@@ -309,6 +316,7 @@ exhibit-5-other-activities
 exhibit-6-physical-exam
 exhibit-7-substitution-for-upc-paragraph-7b
 exhibit-8-sign-and-trade
+exhibit-9-one-season-non-guaranteed-training-camp-contracts
 exhibit-10-nbadl-bonus-and-two-way-player-conversion
 rookie-scales
 nba-rookie-scale

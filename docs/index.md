@@ -1,7 +1,7 @@
 --- 
 title: "NBA Collective Bargaining Agreement - 2017"
 author: "Robert"
-date: "2023-04-01"
+date: "2023-07-11"
 site: bookdown::bookdown_site
 documentclass: book
 link-citations: yes
